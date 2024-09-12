@@ -1,0 +1,31 @@
+.logo-text , .nav-link{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:xx-large;
+  text-transform: uppercase;
+  color: white;
+}
+nav{
+  background-color: rgb(58, 73, 123) !important;
+  margin-inline: auto;
+  margin-top: -30px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(0 0 0 / 0.7);
+
+}
+header img {
+  max-height: 30vh;
+  object-fit: cover;
+  vertical-align: middle;
+}
+header{
+  background-color:  #212529;
+}
+section{
+  background-color:  #212529;
+}
+.active {
+ padding: 10px;
+ background-color: aqua;
+}
